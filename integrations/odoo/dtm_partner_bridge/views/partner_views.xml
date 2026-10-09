@@ -1,0 +1,9 @@
+<odoo>
+ <record id="dtm_partner_reference" model="ir.ui.view">
+  <field name="name">res.partner.dtm.reference</field>
+  <field name="model">res.partner</field>
+  <field name="inherit_id" ref="base.view_partner_form"/>
+  <field name="arch" type="xml"><xpath expr="//field[@name='ref']" position="after"><field name="dtm_external_reference"/></xpath></field>
+ </record>
+ <template id="dtm_partner_reference_report"><div><strong>DTM reference: </strong><span t-esc="partner.dtm_external_reference or ''"/></div></template>
+</odoo>

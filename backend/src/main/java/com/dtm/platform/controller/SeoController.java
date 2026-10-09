@@ -1,0 +1,7 @@
+package com.dtm.platform.controller;import com.dtm.platform.service.ContentService;import org.springframework.web.bind.annotation.*;import org.springframework.beans.factory.annotation.Value;import java.util.*;
+@RestController public class SeoController {
+ private final ContentService content;private final String origin;
+ public SeoController(ContentService content,@Value("${SITE_ORIGIN:https://mvdt.in}")String origin){this.content=content;this.origin=origin.replaceAll("/$","");}
+ @GetMapping(value="/api/v1/sitemap.xml",produces="application/xml") public String sitemap(){StringBuilder xml=new StringBuilder("<?xml version=\"1.0\" encoding=\"UTF-8\"?><urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">");for(String path:List.of("/","/projects","/stack","/experience","/labs","/architecture","/code","/articles","/resume","/contact"))xml.append("<url><loc>").append(escape(origin+path)).append("</loc></url>");for(String resource:List.of("projects","articles")){int page=0;while(true){var out=content.list(resource,"",null,null,page++,100,"sortOrder,asc",false);for(var row:out.items())xml.append("<url><loc>").append(escape(origin+"/"+resource+"/"+row.slug())).append("</loc><lastmod>").append(row.updatedAt()).append("</lastmod></url>");if(page>=out.totalPages())break;}}return xml.append("</urlset>").toString();}
+ private String escape(String value){return value.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;");}
+}

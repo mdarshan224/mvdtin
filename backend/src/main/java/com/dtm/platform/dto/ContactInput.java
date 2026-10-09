@@ -1,0 +1,2 @@
+package com.dtm.platform.dto;import jakarta.validation.constraints.*;
+public record ContactInput(@NotBlank @Size(max=120) String name,@NotBlank @Email @Size(max=254) String email,@Size(max=40) String phone,@Size(max=180) String company,@Size(max=100) String projectType,@Size(max=100) String budget,@NotBlank @Size(min=10,max=5000) String message,@Size(max=100) String website,@Pattern(regexp="[A-Za-z0-9_-]{8,80}") String submissionKey) {}

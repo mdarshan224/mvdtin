@@ -1,0 +1,3 @@
+import type {MetadataRoute} from 'next';import {list} from '@/server/content';
+export const dynamic='force-dynamic';
+export default async function sitemap():Promise<MetadataRoute.Sitemap>{const urls=['/','/projects','/stack','/experience','/articles','/architecture','/code','/labs','/resume','/contact','/docs'].map(path=>({url:'https://mvdt.in'+path,lastModified:new Date()}));for(const resource of ['projects','articles']){try{let page=0;while(true){const out=await list(resource,new URLSearchParams({page:String(page),size:'100'}));urls.push(...out.items.map(x=>({url:`https://mvdt.in/${resource}/${x.slug}`,lastModified:new Date(x.updatedAt)})));if(++page>=out.totalPages)break;}}catch{}}return urls;}

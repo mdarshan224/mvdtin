@@ -1,0 +1,6 @@
+package com.dtm.platform;
+import com.dtm.platform.service.ContactService;import com.dtm.platform.repository.*;import com.dtm.platform.dto.ContactInput;import com.dtm.platform.entity.ContactMessage;import org.junit.jupiter.api.Test;import java.util.Optional;import static org.mockito.Mockito.*;import static org.junit.jupiter.api.Assertions.*;
+class ContactServiceTest {
+ @Test void duplicateSubmissionDoesNotInsertAnotherLead(){var contacts=mock(ContactMessageRepository.class);var events=mock(AnalyticsEventRepository.class);var existing=new ContactMessage();existing.id=42L;when(contacts.findBySubmissionKey("request-key-001")).thenReturn(Optional.of(existing));var service=new ContactService(contacts,events);var response=service.submit(new ContactInput("Test","test@example.test",null,null,null,null,"A useful project brief",null,"request-key-001"));assertEquals(42L,response.get("id"));verify(contacts,never()).saveAndFlush(any());}
+ @Test void honeypotDoesNotStoreContact(){var contacts=mock(ContactMessageRepository.class);var events=mock(AnalyticsEventRepository.class);var service=new ContactService(contacts,events);service.submit(new ContactInput("Test","test@example.test",null,null,null,null,"A useful project brief","spam-site","request-key-002"));verifyNoInteractions(contacts);}
+}

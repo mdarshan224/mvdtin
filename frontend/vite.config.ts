@@ -1,0 +1,3 @@
+import {defineConfig} from 'vite';import react from '@vitejs/plugin-react';import tailwindcss from '@tailwindcss/postcss';import path from 'node:path';import {fileURLToPath} from 'node:url';
+const root=path.dirname(fileURLToPath(import.meta.url));
+export default defineConfig({root,publicDir:path.resolve(root,'../public'),plugins:[react()],resolve:{alias:[{find:'next/link',replacement:path.resolve(root,'src/bridge/link.tsx')},{find:'next/navigation',replacement:path.resolve(root,'src/bridge/navigation.tsx')},{find:'@',replacement:path.resolve(root,'..')}]},css:{postcss:{plugins:[tailwindcss()]}},server:{port:5173,proxy:{'/api':{target:process.env.VITE_API_PROXY||'http://localhost:8080',changeOrigin:true}}},build:{outDir:'dist',emptyOutDir:true}});

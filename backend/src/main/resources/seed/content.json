@@ -1,0 +1,5803 @@
+[
+  {
+    "resource": "profile",
+    "name": "Darshan Tejomaya M",
+    "slug": "darshan-tejomaya-m",
+    "summary": "Technology entrepreneur and systems architect building full-stack applications, IoT systems, automation platforms and real-time operational software. Connecting physical hardware with cloud infrastructure, from microcontrollers to logistics engines.",
+    "category": "",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "name": "Darshan Tejomaya M",
+      "role": "Founder & Systems Architect",
+      "location": "Malur, Karnataka, India",
+      "email": "me@mvdt.in",
+      "phone": "+917676272709",
+      "summary": "Technology entrepreneur and systems architect building full-stack applications, IoT systems, automation platforms and real-time operational software. Connecting physical hardware with cloud infrastructure, from microcontrollers to logistics engines.",
+      "linkedin": "https://linkedin.com/in/mdarshan224",
+      "instagram": "https://www.instagram.com/mdarshantejomaya/",
+      "github": null,
+      "photo": "/darshan.webp"
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "Sohan Soft Tech",
+    "slug": "sohan-soft-tech",
+    "summary": "Software, education and business systems, connected through practical integrations.",
+    "category": "Business",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": true,
+    "sortOrder": 0,
+    "data": {
+      "id": "sohan-soft-tech",
+      "name": "Sohan Soft Tech",
+      "monogram": "S.",
+      "category": "Business",
+      "stage": "Stage not listed",
+      "year": 2024,
+      "description": "Software, education and business systems, connected through practical integrations.",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "Cloudflare",
+        "REST APIs",
+        "WordPress",
+        "Shopify",
+        "Wix",
+        "Razorpay",
+        "WhatsApp APIs"
+      ],
+      "problem": "Businesses need software that connects their websites, internal operations and customer communication.",
+      "solution": "Custom websites, web applications, education solutions, payment integrations and business automation.",
+      "lab": "platform",
+      "accent": "orange",
+      "links": {
+        "website": "https://sohansoft.in"
+      },
+      "role": "Founder & Lead Architect",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Stage not listed",
+      "readiness": "Needs review",
+      "features": [
+        "Custom websites, web applications, education solutions, payment integrations and business automation."
+      ],
+      "githubUrl": null,
+      "liveUrl": "https://sohansoft.in",
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "Junk It Out",
+    "slug": "junk-it-out",
+    "summary": "A connected platform for waste collection, dispatch and field operations.",
+    "category": "Logistics",
+    "status": "DEVELOPMENT",
+    "published": true,
+    "featured": true,
+    "sortOrder": 1,
+    "data": {
+      "id": "junk-it-out",
+      "name": "Junk It Out",
+      "monogram": "Jio",
+      "category": "Logistics",
+      "stage": "Development",
+      "year": 2026,
+      "description": "A connected platform for waste collection, dispatch and field operations.",
+      "technologies": [
+        "Android",
+        "Node.js",
+        "REST APIs",
+        "WebSockets",
+        "PostgreSQL",
+        "PostGIS",
+        "Cloudflare"
+      ],
+      "problem": "Fragmented waste collection makes booking, assignment and fleet coordination difficult.",
+      "solution": "Android client, API services and an operations layer for booking, dispatch, tracking and collection. PostGIS supports spatial querying.",
+      "lab": "logistics",
+      "accent": "orange",
+      "links": {
+        "website": "https://junkitout.space"
+      },
+      "role": "Co-Founder & Systems Architect",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Development",
+      "readiness": "Development",
+      "features": [
+        "Android client, API services and an operations layer for booking, dispatch, tracking and collection",
+        "PostGIS supports spatial querying."
+      ],
+      "githubUrl": null,
+      "liveUrl": "https://junkitout.space",
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "Education Systems",
+    "slug": "education-systems",
+    "summary": "Student operations, fees, attendance and parent communication in one ecosystem.",
+    "category": "Education",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": true,
+    "sortOrder": 2,
+    "data": {
+      "id": "education-systems",
+      "name": "Education Systems",
+      "monogram": "Ed",
+      "category": "Education",
+      "stage": "Stage not listed",
+      "year": 2025,
+      "description": "Student operations, fees, attendance and parent communication in one ecosystem.",
+      "technologies": [
+        "Google Sheets",
+        "Apps Script",
+        "RFID",
+        "Fast2SMS",
+        "WhatsApp APIs",
+        "PDF generation",
+        "REST APIs"
+      ],
+      "problem": "Student records, attendance and fee workflows create repetitive administrative work.",
+      "solution": "Student databases, attendance workflows, fee management, payment links, parent communication and reporting.",
+      "lab": "education",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Stage not listed",
+      "readiness": "Needs review",
+      "features": [
+        "Student databases, attendance workflows, fee management, payment links, parent communication and reporting."
+      ],
+      "githubUrl": null,
+      "liveUrl": null,
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "Nirantara",
+    "slug": "nirantara",
+    "summary": "An attendance reporting tool that transforms Excel sheets into structured PDFs.",
+    "category": "Automation",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 3,
+    "data": {
+      "id": "nirantara",
+      "name": "Nirantara",
+      "monogram": "Ni",
+      "category": "Automation",
+      "stage": "Stage not listed",
+      "year": null,
+      "description": "An attendance reporting tool that transforms Excel sheets into structured PDFs.",
+      "technologies": [
+        "JavaScript",
+        "SheetJS",
+        "jsPDF",
+        "AutoTable",
+        "HTML",
+        "CSS"
+      ],
+      "problem": "Attendance spreadsheets need a consistent and portable reporting format.",
+      "solution": "Client-side Excel processing with SheetJS, PDF creation with jsPDF and tabular reporting through AutoTable.",
+      "lab": "reporting",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Stage not listed",
+      "readiness": "Needs review",
+      "features": [
+        "Client-side Excel processing with SheetJS, PDF creation with jsPDF and tabular reporting through AutoTable."
+      ],
+      "githubUrl": null,
+      "liveUrl": null,
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "Employee Onboarding",
+    "slug": "employee-onboarding",
+    "summary": "Forms, documents and scheduling connected into an onboarding workflow.",
+    "category": "Automation",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 4,
+    "data": {
+      "id": "employee-onboarding",
+      "name": "Employee Onboarding",
+      "monogram": "On",
+      "category": "Automation",
+      "stage": "Stage not listed",
+      "year": null,
+      "description": "Forms, documents and scheduling connected into an onboarding workflow.",
+      "technologies": [
+        "Google Forms",
+        "Google Sheets",
+        "Apps Script",
+        "PDF generation",
+        "Email automation",
+        "WhatsApp APIs"
+      ],
+      "problem": "Onboarding involves repeated data entry, document creation and interview coordination.",
+      "solution": "Forms collect details; Sheets and Apps Script coordinate PDFs, email, WhatsApp, short links and interview scheduling.",
+      "lab": "automation",
+      "accent": "orange",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Stage not listed",
+      "readiness": "Needs review",
+      "features": [
+        "Forms collect details; Sheets and Apps Script coordinate PDFs, email, WhatsApp, short links and interview scheduling."
+      ],
+      "githubUrl": null,
+      "liveUrl": null,
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "DLT & Messaging",
+    "slug": "messaging-platform",
+    "summary": "Template-based messaging and API integrations for business communication.",
+    "category": "Integrations",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 5,
+    "data": {
+      "id": "messaging-platform",
+      "name": "DLT & Messaging",
+      "monogram": "DL",
+      "category": "Integrations",
+      "stage": "Stage not listed",
+      "year": null,
+      "description": "Template-based messaging and API integrations for business communication.",
+      "technologies": [
+        "REST APIs",
+        "Fast2SMS",
+        "DLT",
+        "Airtel DLT",
+        "Jio DLT",
+        "WhatsApp APIs"
+      ],
+      "problem": "Business messages need approved templates and reliable provider integrations.",
+      "solution": "DLT template management and SMS integration across Fast2SMS, Airtel DLT and Jio DLT.",
+      "lab": "messaging",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Stage not listed",
+      "readiness": "Needs review",
+      "features": [
+        "DLT template management and SMS integration across Fast2SMS, Airtel DLT and Jio DLT."
+      ],
+      "githubUrl": null,
+      "liveUrl": null,
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "RFID Attendance",
+    "slug": "rfid-attendance",
+    "summary": "A hardware-to-cloud attendance pipeline with parent notifications.",
+    "category": "Hardware",
+    "status": "PROTOTYPE",
+    "published": true,
+    "featured": false,
+    "sortOrder": 6,
+    "data": {
+      "id": "rfid-attendance",
+      "name": "RFID Attendance",
+      "monogram": "RF",
+      "category": "Hardware",
+      "stage": "Prototype",
+      "year": null,
+      "description": "A hardware-to-cloud attendance pipeline with parent notifications.",
+      "technologies": [
+        "ESP32",
+        "ESP8266",
+        "MFRC522",
+        "RFID",
+        "Apps Script",
+        "Google Sheets",
+        "Fast2SMS",
+        "NTP"
+      ],
+      "problem": "Manual attendance registers are slow and difficult to connect to timely parent communication.",
+      "solution": "Prototyped RFID hardware and embedded logic connected to cloud records and SMS notifications. Offline synchronization is a proposed reliability layer.",
+      "lab": "hardware",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Prototype",
+      "readiness": "Prototype",
+      "features": [
+        "Prototyped RFID hardware and embedded logic connected to cloud records and SMS notifications",
+        "Offline synchronization is a proposed reliability layer."
+      ],
+      "githubUrl": null,
+      "liveUrl": null,
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "Project Silentium",
+    "slug": "silentium",
+    "summary": "Experimental audio identifiers and digital rights protection research.",
+    "category": "R&D",
+    "status": "PROTOTYPE",
+    "published": true,
+    "featured": false,
+    "sortOrder": 7,
+    "data": {
+      "id": "silentium",
+      "name": "Project Silentium",
+      "monogram": "Si",
+      "category": "R&D",
+      "stage": "Prototype",
+      "year": 2025,
+      "description": "Experimental audio identifiers and digital rights protection research.",
+      "technologies": [
+        "Python",
+        "C++",
+        "DSP",
+        "FFT",
+        "Audio Processing"
+      ],
+      "problem": "Investigate signal-based identification as part of experimental digital rights protection.",
+      "solution": "Continuous audio sampling and DSP/FFT analysis for embedding and detecting FSK-based ultrasonic identifiers. The browser demonstration is a simulation, not OS-level enforcement.",
+      "lab": "silentium",
+      "accent": "teal",
+      "links": {},
+      "role": "Lead Architect \u00b7 Experimental R&D",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Prototype",
+      "readiness": "Prototype",
+      "features": [
+        "Continuous audio sampling and DSP/FFT analysis for embedding and detecting FSK-based ultrasonic identifiers",
+        "The browser demonstration is a simulation, not OS-level enforcement."
+      ],
+      "githubUrl": null,
+      "liveUrl": null,
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "Chaiya",
+    "slug": "chaiya",
+    "summary": "A WhatsApp college assistant for admissions and service enquiries.",
+    "category": "Automation",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 8,
+    "data": {
+      "id": "chaiya",
+      "name": "Chaiya",
+      "monogram": "Ch",
+      "category": "Automation",
+      "stage": "Stage not listed",
+      "year": null,
+      "description": "A WhatsApp college assistant for admissions and service enquiries.",
+      "technologies": [
+        "n8n",
+        "WhatsApp APIs",
+        "REST APIs",
+        "OpenAI API"
+      ],
+      "problem": "Repeated admission and student service enquiries consume staff time.",
+      "solution": "WhatsApp-based assistance using n8n and API integrations for admissions, ERP navigation and parent communication.",
+      "lab": "automation",
+      "accent": "orange",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Stage not listed",
+      "readiness": "Needs review",
+      "features": [
+        "WhatsApp-based assistance using n8n and API integrations for admissions, ERP navigation and parent communication."
+      ],
+      "githubUrl": null,
+      "liveUrl": null,
+      "images": []
+    }
+  },
+  {
+    "resource": "projects",
+    "name": "AI Hazard Detection",
+    "slug": "hazard-detection",
+    "summary": "An experimental vision and sensor pipeline for environmental hazard alerts.",
+    "category": "R&D",
+    "status": "PROTOTYPE",
+    "published": true,
+    "featured": false,
+    "sortOrder": 9,
+    "data": {
+      "id": "hazard-detection",
+      "name": "AI Hazard Detection",
+      "monogram": "AI",
+      "category": "R&D",
+      "stage": "Prototype",
+      "year": null,
+      "description": "An experimental vision and sensor pipeline for environmental hazard alerts.",
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "sensors",
+        "Computer Vision"
+      ],
+      "problem": "Explore detecting physical hazards in high-risk environments during mobile device use.",
+      "solution": "Experimental computer vision and sensor analysis to detect environmental hazards and trigger alerts.",
+      "lab": "hardware",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ],
+      "sourceStage": "Prototype",
+      "readiness": "Prototype",
+      "features": [
+        "Experimental computer vision and sensor analysis to detect environmental hazards and trigger alerts."
+      ],
+      "githubUrl": null,
+      "liveUrl": null,
+      "images": []
+    }
+  },
+  {
+    "resource": "experience",
+    "name": "Co-Founder & Systems Architect",
+    "slug": "junk-it-out-technologies-pvt-ltd-co-founder-systems-architect",
+    "summary": "Architected a centralized waste logistics platform. Designed Node.js and WebSocket services for tracking and dispatch, with PostGIS spatial querying and route optimization.",
+    "category": "Experience",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "year": 2026,
+      "date": "2026 \u2013 Present",
+      "role": "Co-Founder & Systems Architect",
+      "company": "Junk It Out Technologies Pvt Ltd",
+      "description": "Architected a centralized waste logistics platform. Designed Node.js and WebSocket services for tracking and dispatch, with PostGIS spatial querying and route optimization.",
+      "technologies": [
+        "Node.js",
+        "WebSockets",
+        "PostGIS",
+        "System Design"
+      ]
+    }
+  },
+  {
+    "resource": "experience",
+    "name": "Founder & Lead Architect",
+    "slug": "sohan-soft-tech-pvt-ltd-founder-lead-architect",
+    "summary": "Full-stack application development, API architecture and cloud deployments for businesses and educational institutions. Payment integrations, webhooks and automated workflows.",
+    "category": "Experience",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 1,
+    "data": {
+      "year": 2024,
+      "date": "2024 \u2013 Present",
+      "role": "Founder & Lead Architect",
+      "company": "Sohan Soft Tech Pvt Ltd",
+      "description": "Full-stack application development, API architecture and cloud deployments for businesses and educational institutions. Payment integrations, webhooks and automated workflows.",
+      "technologies": [
+        "REST APIs",
+        "Cloudflare",
+        "Razorpay",
+        "Automation"
+      ]
+    }
+  },
+  {
+    "resource": "experience",
+    "name": "Lead Architect",
+    "slug": "project-silentium-experimental-r-d-lead-architect",
+    "summary": "Experimental digital rights protection using Python and C++. Audio buffer sampling and DSP/FFT analysis for FSK-based ultrasonic identifiers.",
+    "category": "Experience",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 2,
+    "data": {
+      "year": 2025,
+      "date": "2025 \u2013 Present",
+      "role": "Lead Architect",
+      "company": "Project Silentium \u00b7 Experimental R&D",
+      "description": "Experimental digital rights protection using Python and C++. Audio buffer sampling and DSP/FFT analysis for FSK-based ultrasonic identifiers.",
+      "technologies": [
+        "Python",
+        "C++",
+        "DSP",
+        "FFT"
+      ]
+    }
+  },
+  {
+    "resource": "experience",
+    "name": "Full-Stack Intern & BD Trainee",
+    "slug": "edu-tantr-full-stack-intern-bd-trainee",
+    "summary": "Contributed to frontend architecture and full-stack optimization. Supported business development, mentorship and CRM workflows.",
+    "category": "Experience",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 3,
+    "data": {
+      "year": 2024,
+      "date": "Aug 2024 \u2013 Feb 2025",
+      "role": "Full-Stack Intern & BD Trainee",
+      "company": "Edu Tantr",
+      "description": "Contributed to frontend architecture and full-stack optimization. Supported business development, mentorship and CRM workflows.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "resource": "education",
+    "name": "Bachelor of Technology (BTech)",
+    "slug": "bachelor-of-technology-btech",
+    "summary": "Data Structures, Algorithms and System Architecture.",
+    "category": "Education",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "title": "Bachelor of Technology (BTech)",
+      "institution": "Dayananda Sagar University",
+      "date": "2021 \u2013 2025",
+      "description": "Data Structures, Algorithms and System Architecture."
+    }
+  },
+  {
+    "resource": "education",
+    "name": "Class XII",
+    "slug": "class-xii",
+    "summary": "",
+    "category": "Education",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 1,
+    "data": {
+      "title": "Class XII",
+      "institution": "Green City PU College",
+      "date": "2019 \u2013 2021",
+      "description": ""
+    }
+  },
+  {
+    "resource": "companies",
+    "name": "Sohan Soft Tech",
+    "slug": "sohan-soft-tech",
+    "summary": "Company details supplied in the original portfolio.",
+    "category": "Business",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "id": "sohan-soft-tech",
+      "name": "Sohan Soft Tech",
+      "website": "https://sohansoft.in",
+      "cin": "U62011KA2026PTC224635"
+    }
+  },
+  {
+    "resource": "companies",
+    "name": "Junk It Out Technologies",
+    "slug": "junk-it-out",
+    "summary": "Company details supplied in the original portfolio.",
+    "category": "Business",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "id": "junk-it-out",
+      "name": "Junk It Out Technologies",
+      "website": "https://junkitout.space",
+      "cin": "U38110KA2026PTC218578",
+      "recognition": "Startup India DIPP265455",
+      "recognitionUrl": "https://www.startupindia.gov.in/content/sih/en/block-chain-recognised-certificate.html?DIPP=DIPP265455"
+    }
+  },
+  {
+    "resource": "timeline",
+    "name": "The foundations",
+    "slug": "2022-the-foundations",
+    "summary": "Foundational coding, syntax, logic gates and early algorithms, as documented in the original Time Machine.",
+    "category": "Software",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "year": 2022,
+      "title": "The foundations",
+      "category": "Software",
+      "description": "Foundational coding, syntax, logic gates and early algorithms, as documented in the original Time Machine.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "C",
+        "C++"
+      ],
+      "projects": []
+    }
+  },
+  {
+    "resource": "timeline",
+    "name": "From local to connected",
+    "slug": "2023-from-local-to-connected",
+    "summary": "Node.js integrations and full-stack development begin; exploring cloud-hosted systems.",
+    "category": "Software",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 1,
+    "data": {
+      "year": 2023,
+      "title": "From local to connected",
+      "category": "Software",
+      "description": "Node.js integrations and full-stack development begin; exploring cloud-hosted systems.",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "REST APIs"
+      ],
+      "projects": []
+    }
+  },
+  {
+    "resource": "timeline",
+    "name": "Building the software foundry",
+    "slug": "2024-building-the-software-foundry",
+    "summary": "Sohan Soft Tech work begins. Full-stack experience expands through the Edu Tantr internship.",
+    "category": "Business",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 2,
+    "data": {
+      "year": 2024,
+      "title": "Building the software foundry",
+      "category": "Business",
+      "description": "Sohan Soft Tech work begins. Full-stack experience expands through the Edu Tantr internship.",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "REST APIs",
+        "Cloudflare"
+      ],
+      "projects": [
+        "sohan-soft-tech"
+      ]
+    }
+  },
+  {
+    "resource": "timeline",
+    "name": "Software meets the physical world",
+    "slug": "2025-software-meets-the-physical-world",
+    "summary": "Education workflows, RFID hardware and ESP32 prototyping. Experimental signal-processing research through Silentium.",
+    "category": "IoT",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 3,
+    "data": {
+      "year": 2025,
+      "title": "Software meets the physical world",
+      "category": "IoT",
+      "description": "Education workflows, RFID hardware and ESP32 prototyping. Experimental signal-processing research through Silentium.",
+      "technologies": [
+        "ESP32",
+        "RFID",
+        "Apps Script",
+        "Python",
+        "C++",
+        "PostGIS",
+        "WebSockets"
+      ],
+      "projects": [
+        "education-systems",
+        "silentium"
+      ]
+    }
+  },
+  {
+    "resource": "timeline",
+    "name": "An ecosystem takes shape",
+    "slug": "2026-an-ecosystem-takes-shape",
+    "summary": "Company incorporation and Junk It Out systems architecture, with logistics, cloud infrastructure and operational workflows.",
+    "category": "Infrastructure",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 4,
+    "data": {
+      "year": 2026,
+      "title": "An ecosystem takes shape",
+      "category": "Infrastructure",
+      "description": "Company incorporation and Junk It Out systems architecture, with logistics, cloud infrastructure and operational workflows.",
+      "technologies": [
+        "Android",
+        "Node.js",
+        "PostGIS",
+        "Cloudflare",
+        "WebSockets"
+      ],
+      "projects": [
+        "junk-it-out",
+        "sohan-soft-tech"
+      ]
+    }
+  },
+  {
+    "resource": "services",
+    "name": "Web development",
+    "slug": "web-development",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "services",
+    "name": "Custom applications",
+    "slug": "custom-applications",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "services",
+    "name": "Education systems",
+    "slug": "education-systems",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "services",
+    "name": "Business automation",
+    "slug": "business-automation",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "services",
+    "name": "Mobile applications",
+    "slug": "mobile-applications",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "services",
+    "name": "API integrations",
+    "slug": "api-integrations",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "services",
+    "name": "IoT systems",
+    "slug": "iot-systems",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "services",
+    "name": "Cloud deployment",
+    "slug": "cloud-deployment",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "services",
+    "name": "Payment integrations",
+    "slug": "payment-integrations",
+    "summary": "Discuss scope, integrations and delivery requirements.",
+    "category": "Services",
+    "status": "CONCEPT",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "technologies",
+    "name": "JavaScript",
+    "slug": "javascript",
+    "summary": "Used in 2 documented projects.",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "name": "JavaScript",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "JavaScript",
+    "slug": "javascript",
+    "summary": "Supplied portfolio",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "name": "JavaScript",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "TypeScript",
+    "slug": "typescript",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Languages",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 1,
+    "data": {
+      "name": "TypeScript",
+      "category": "Languages",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "TypeScript",
+    "slug": "typescript",
+    "summary": "Learning / platform stack",
+    "category": "Languages",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 1,
+    "data": {
+      "name": "TypeScript",
+      "category": "Languages",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Python",
+    "slug": "python",
+    "summary": "Used in 2 documented projects.",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 2,
+    "data": {
+      "name": "Python",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "silentium",
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Python",
+    "slug": "python",
+    "summary": "Supplied portfolio",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 2,
+    "data": {
+      "name": "Python",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "silentium",
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Java",
+    "slug": "java",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 3,
+    "data": {
+      "name": "Java",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Java",
+    "slug": "java",
+    "summary": "Supplied portfolio",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 3,
+    "data": {
+      "name": "Java",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "C",
+    "slug": "c",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 4,
+    "data": {
+      "name": "C",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "C",
+    "slug": "c",
+    "summary": "Supplied portfolio",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 4,
+    "data": {
+      "name": "C",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "C++",
+    "slug": "cpp",
+    "summary": "Used in 1 documented projects.",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 5,
+    "data": {
+      "name": "C++",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "C++",
+    "slug": "cpp",
+    "summary": "Supplied portfolio",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 5,
+    "data": {
+      "name": "C++",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "SQL",
+    "slug": "sql",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 6,
+    "data": {
+      "name": "SQL",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "SQL",
+    "slug": "sql",
+    "summary": "Supplied portfolio",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 6,
+    "data": {
+      "name": "SQL",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "HTML",
+    "slug": "html",
+    "summary": "Used in 1 documented projects.",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 7,
+    "data": {
+      "name": "HTML",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "HTML",
+    "slug": "html",
+    "summary": "Supplied portfolio",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 7,
+    "data": {
+      "name": "HTML",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "CSS",
+    "slug": "css",
+    "summary": "Used in 1 documented projects.",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 8,
+    "data": {
+      "name": "CSS",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "CSS",
+    "slug": "css",
+    "summary": "Supplied portfolio",
+    "category": "Languages",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 8,
+    "data": {
+      "name": "CSS",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "HTML5",
+    "slug": "html5",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 9,
+    "data": {
+      "name": "HTML5",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "HTML5",
+    "slug": "html5",
+    "summary": "Supplied portfolio",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 9,
+    "data": {
+      "name": "HTML5",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "CSS3",
+    "slug": "css3",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 10,
+    "data": {
+      "name": "CSS3",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "CSS3",
+    "slug": "css3",
+    "summary": "Supplied portfolio",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 10,
+    "data": {
+      "name": "CSS3",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "React",
+    "slug": "react",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Frontend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 11,
+    "data": {
+      "name": "React",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "React",
+    "slug": "react",
+    "summary": "Learning / platform stack",
+    "category": "Frontend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 11,
+    "data": {
+      "name": "React",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Next.js",
+    "slug": "next-js",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Frontend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 12,
+    "data": {
+      "name": "Next.js",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Next.js",
+    "slug": "next-js",
+    "summary": "Learning / platform stack",
+    "category": "Frontend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 12,
+    "data": {
+      "name": "Next.js",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Tailwind CSS",
+    "slug": "tailwind-css",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Frontend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 13,
+    "data": {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Tailwind CSS",
+    "slug": "tailwind-css",
+    "summary": "Learning / platform stack",
+    "category": "Frontend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 13,
+    "data": {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "WordPress",
+    "slug": "wordpress",
+    "summary": "Used in 1 documented projects.",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 14,
+    "data": {
+      "name": "WordPress",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "WordPress",
+    "slug": "wordpress",
+    "summary": "Supplied portfolio",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 14,
+    "data": {
+      "name": "WordPress",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Shopify",
+    "slug": "shopify",
+    "summary": "Used in 1 documented projects.",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 15,
+    "data": {
+      "name": "Shopify",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Shopify",
+    "slug": "shopify",
+    "summary": "Supplied portfolio",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 15,
+    "data": {
+      "name": "Shopify",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Wix",
+    "slug": "wix",
+    "summary": "Used in 1 documented projects.",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 16,
+    "data": {
+      "name": "Wix",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Wix",
+    "slug": "wix",
+    "summary": "Supplied portfolio",
+    "category": "Frontend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 16,
+    "data": {
+      "name": "Wix",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Node.js",
+    "slug": "node-js",
+    "summary": "Used in 2 documented projects.",
+    "category": "Backend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 17,
+    "data": {
+      "name": "Node.js",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Node.js",
+    "slug": "node-js",
+    "summary": "Supplied portfolio",
+    "category": "Backend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 17,
+    "data": {
+      "name": "Node.js",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Express",
+    "slug": "express",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Backend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 18,
+    "data": {
+      "name": "Express",
+      "category": "Backend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Express",
+    "slug": "express",
+    "summary": "Learning / platform stack",
+    "category": "Backend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 18,
+    "data": {
+      "name": "Express",
+      "category": "Backend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "REST APIs",
+    "slug": "rest-apis",
+    "summary": "Used in 5 documented projects.",
+    "category": "Backend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 19,
+    "data": {
+      "name": "REST APIs",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out",
+        "education-systems",
+        "messaging-platform",
+        "chaiya"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "REST APIs",
+    "slug": "rest-apis",
+    "summary": "Supplied portfolio",
+    "category": "Backend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 19,
+    "data": {
+      "name": "REST APIs",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out",
+        "education-systems",
+        "messaging-platform",
+        "chaiya"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Webhooks",
+    "slug": "webhooks",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Backend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 20,
+    "data": {
+      "name": "Webhooks",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Webhooks",
+    "slug": "webhooks",
+    "summary": "Supplied portfolio",
+    "category": "Backend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 20,
+    "data": {
+      "name": "Webhooks",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Authentication",
+    "slug": "authentication",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Backend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 21,
+    "data": {
+      "name": "Authentication",
+      "category": "Backend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Authentication",
+    "slug": "authentication",
+    "summary": "Learning / platform stack",
+    "category": "Backend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 21,
+    "data": {
+      "name": "Authentication",
+      "category": "Backend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "WebSockets",
+    "slug": "websockets",
+    "summary": "Used in 1 documented projects.",
+    "category": "Backend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 22,
+    "data": {
+      "name": "WebSockets",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "WebSockets",
+    "slug": "websockets",
+    "summary": "Supplied portfolio",
+    "category": "Backend",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 22,
+    "data": {
+      "name": "WebSockets",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "summary": "Used in 1 documented projects.",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 23,
+    "data": {
+      "name": "PostgreSQL",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "summary": "Supplied portfolio",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 23,
+    "data": {
+      "name": "PostgreSQL",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "PostGIS",
+    "slug": "postgis",
+    "summary": "Used in 1 documented projects.",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 24,
+    "data": {
+      "name": "PostGIS",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "PostGIS",
+    "slug": "postgis",
+    "summary": "Supplied portfolio",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 24,
+    "data": {
+      "name": "PostGIS",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "MySQL",
+    "slug": "mysql",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 25,
+    "data": {
+      "name": "MySQL",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "MySQL",
+    "slug": "mysql",
+    "summary": "Supplied portfolio",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 25,
+    "data": {
+      "name": "MySQL",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 26,
+    "data": {
+      "name": "MongoDB",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "summary": "Supplied portfolio",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 26,
+    "data": {
+      "name": "MongoDB",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Redis",
+    "slug": "redis",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 27,
+    "data": {
+      "name": "Redis",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Redis",
+    "slug": "redis",
+    "summary": "Supplied portfolio",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 27,
+    "data": {
+      "name": "Redis",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Firebase",
+    "slug": "firebase",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Databases",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 28,
+    "data": {
+      "name": "Firebase",
+      "category": "Databases",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Firebase",
+    "slug": "firebase",
+    "summary": "Learning / platform stack",
+    "category": "Databases",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 28,
+    "data": {
+      "name": "Firebase",
+      "category": "Databases",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Supabase",
+    "slug": "supabase",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Databases",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 29,
+    "data": {
+      "name": "Supabase",
+      "category": "Databases",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Supabase",
+    "slug": "supabase",
+    "summary": "Learning / platform stack",
+    "category": "Databases",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 29,
+    "data": {
+      "name": "Supabase",
+      "category": "Databases",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Google Sheets",
+    "slug": "google-sheets",
+    "summary": "Used in 3 documented projects.",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 30,
+    "data": {
+      "name": "Google Sheets",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Google Sheets",
+    "slug": "google-sheets",
+    "summary": "Supplied portfolio",
+    "category": "Databases",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 30,
+    "data": {
+      "name": "Google Sheets",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "summary": "Used in 2 documented projects.",
+    "category": "Cloud",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 31,
+    "data": {
+      "name": "Cloudflare",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "summary": "Supplied portfolio",
+    "category": "Cloud",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 31,
+    "data": {
+      "name": "Cloudflare",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Cloudflare Workers",
+    "slug": "cloudflare-workers",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Cloud",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 32,
+    "data": {
+      "name": "Cloudflare Workers",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Cloudflare Workers",
+    "slug": "cloudflare-workers",
+    "summary": "Supplied portfolio",
+    "category": "Cloud",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 32,
+    "data": {
+      "name": "Cloudflare Workers",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Wrangler",
+    "slug": "wrangler",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Cloud",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 33,
+    "data": {
+      "name": "Wrangler",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Wrangler",
+    "slug": "wrangler",
+    "summary": "Supplied portfolio",
+    "category": "Cloud",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 33,
+    "data": {
+      "name": "Wrangler",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Docker",
+    "slug": "docker",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 34,
+    "data": {
+      "name": "Docker",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Docker",
+    "slug": "docker",
+    "summary": "Learning / platform stack",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 34,
+    "data": {
+      "name": "Docker",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Git",
+    "slug": "git",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 35,
+    "data": {
+      "name": "Git",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Git",
+    "slug": "git",
+    "summary": "Learning / platform stack",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 35,
+    "data": {
+      "name": "Git",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "GitHub",
+    "slug": "github",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Cloud",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 36,
+    "data": {
+      "name": "GitHub",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "GitHub",
+    "slug": "github",
+    "summary": "Supplied portfolio",
+    "category": "Cloud",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 36,
+    "data": {
+      "name": "GitHub",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "CI/CD",
+    "slug": "ci-cd",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 37,
+    "data": {
+      "name": "CI/CD",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "CI/CD",
+    "slug": "ci-cd",
+    "summary": "Learning / platform stack",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 37,
+    "data": {
+      "name": "CI/CD",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Linux",
+    "slug": "linux",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 38,
+    "data": {
+      "name": "Linux",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Linux",
+    "slug": "linux",
+    "summary": "Learning / platform stack",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 38,
+    "data": {
+      "name": "Linux",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Android",
+    "slug": "android",
+    "summary": "Used in 1 documented projects.",
+    "category": "Mobile",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 39,
+    "data": {
+      "name": "Android",
+      "category": "Mobile",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Android",
+    "slug": "android",
+    "summary": "Supplied portfolio",
+    "category": "Mobile",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 39,
+    "data": {
+      "name": "Android",
+      "category": "Mobile",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Android Studio",
+    "slug": "android-studio",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Mobile",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 40,
+    "data": {
+      "name": "Android Studio",
+      "category": "Mobile",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Android Studio",
+    "slug": "android-studio",
+    "summary": "Supplied portfolio",
+    "category": "Mobile",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 40,
+    "data": {
+      "name": "Android Studio",
+      "category": "Mobile",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Kotlin",
+    "slug": "kotlin",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Mobile",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 41,
+    "data": {
+      "name": "Kotlin",
+      "category": "Mobile",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Kotlin",
+    "slug": "kotlin",
+    "summary": "Learning / platform stack",
+    "category": "Mobile",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 41,
+    "data": {
+      "name": "Kotlin",
+      "category": "Mobile",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "ESP8266",
+    "slug": "esp8266",
+    "summary": "Used in 1 documented projects.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 42,
+    "data": {
+      "name": "ESP8266",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "ESP8266",
+    "slug": "esp8266",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 42,
+    "data": {
+      "name": "ESP8266",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "ESP32",
+    "slug": "esp32",
+    "summary": "Used in 1 documented projects.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 43,
+    "data": {
+      "name": "ESP32",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "ESP32",
+    "slug": "esp32",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 43,
+    "data": {
+      "name": "ESP32",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "RFID",
+    "slug": "rfid",
+    "summary": "Used in 2 documented projects.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 44,
+    "data": {
+      "name": "RFID",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "RFID",
+    "slug": "rfid",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 44,
+    "data": {
+      "name": "RFID",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "MFRC522",
+    "slug": "mfrc522",
+    "summary": "Used in 1 documented projects.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 45,
+    "data": {
+      "name": "MFRC522",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "MFRC522",
+    "slug": "mfrc522",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 45,
+    "data": {
+      "name": "MFRC522",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "LCD",
+    "slug": "lcd",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 46,
+    "data": {
+      "name": "LCD",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "LCD",
+    "slug": "lcd",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 46,
+    "data": {
+      "name": "LCD",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "sensors",
+    "slug": "sensors",
+    "summary": "Used in 1 documented projects.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 47,
+    "data": {
+      "name": "sensors",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "sensors",
+    "slug": "sensors",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 47,
+    "data": {
+      "name": "sensors",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "embedded systems",
+    "slug": "embedded-systems",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Hardware",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 48,
+    "data": {
+      "name": "embedded systems",
+      "category": "Hardware",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "embedded systems",
+    "slug": "embedded-systems",
+    "summary": "Learning / platform stack",
+    "category": "Hardware",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 48,
+    "data": {
+      "name": "embedded systems",
+      "category": "Hardware",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "NTP",
+    "slug": "ntp",
+    "summary": "Used in 1 documented projects.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 49,
+    "data": {
+      "name": "NTP",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "NTP",
+    "slug": "ntp",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 49,
+    "data": {
+      "name": "NTP",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Arduino",
+    "slug": "arduino",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 50,
+    "data": {
+      "name": "Arduino",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Arduino",
+    "slug": "arduino",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 50,
+    "data": {
+      "name": "Arduino",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Raspberry Pi",
+    "slug": "raspberry-pi",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 51,
+    "data": {
+      "name": "Raspberry Pi",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Raspberry Pi",
+    "slug": "raspberry-pi",
+    "summary": "Supplied portfolio",
+    "category": "Hardware",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 51,
+    "data": {
+      "name": "Raspberry Pi",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Razorpay",
+    "slug": "razorpay",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 52,
+    "data": {
+      "name": "Razorpay",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Razorpay",
+    "slug": "razorpay",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 52,
+    "data": {
+      "name": "Razorpay",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Cashfree",
+    "slug": "cashfree",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 53,
+    "data": {
+      "name": "Cashfree",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Cashfree",
+    "slug": "cashfree",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 53,
+    "data": {
+      "name": "Cashfree",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Zoho Pay",
+    "slug": "zoho-pay",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 54,
+    "data": {
+      "name": "Zoho Pay",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Zoho Pay",
+    "slug": "zoho-pay",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 54,
+    "data": {
+      "name": "Zoho Pay",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Fast2SMS",
+    "slug": "fast2sms",
+    "summary": "Used in 3 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 55,
+    "data": {
+      "name": "Fast2SMS",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "messaging-platform",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Fast2SMS",
+    "slug": "fast2sms",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 55,
+    "data": {
+      "name": "Fast2SMS",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "messaging-platform",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "WhatsApp APIs",
+    "slug": "whatsapp-apis",
+    "summary": "Used in 5 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 56,
+    "data": {
+      "name": "WhatsApp APIs",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "education-systems",
+        "employee-onboarding",
+        "messaging-platform",
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "WhatsApp APIs",
+    "slug": "whatsapp-apis",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 56,
+    "data": {
+      "name": "WhatsApp APIs",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "education-systems",
+        "employee-onboarding",
+        "messaging-platform",
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "DLT",
+    "slug": "dlt",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 57,
+    "data": {
+      "name": "DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "DLT",
+    "slug": "dlt",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 57,
+    "data": {
+      "name": "DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Airtel DLT",
+    "slug": "airtel-dlt",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 58,
+    "data": {
+      "name": "Airtel DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Airtel DLT",
+    "slug": "airtel-dlt",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 58,
+    "data": {
+      "name": "Airtel DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Jio DLT",
+    "slug": "jio-dlt",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 59,
+    "data": {
+      "name": "Jio DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Jio DLT",
+    "slug": "jio-dlt",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 59,
+    "data": {
+      "name": "Jio DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Google Workspace",
+    "slug": "google-workspace",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 60,
+    "data": {
+      "name": "Google Workspace",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Google Workspace",
+    "slug": "google-workspace",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 60,
+    "data": {
+      "name": "Google Workspace",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Apps Script",
+    "slug": "apps-script",
+    "summary": "Used in 3 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 61,
+    "data": {
+      "name": "Apps Script",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Apps Script",
+    "slug": "apps-script",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 61,
+    "data": {
+      "name": "Apps Script",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Google Forms",
+    "slug": "google-forms",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 62,
+    "data": {
+      "name": "Google Forms",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Google Forms",
+    "slug": "google-forms",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 62,
+    "data": {
+      "name": "Google Forms",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "n8n",
+    "slug": "n8n",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 63,
+    "data": {
+      "name": "n8n",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "n8n",
+    "slug": "n8n",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 63,
+    "data": {
+      "name": "n8n",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "OpenAI API",
+    "slug": "openai-api",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 64,
+    "data": {
+      "name": "OpenAI API",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "OpenAI API",
+    "slug": "openai-api",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 64,
+    "data": {
+      "name": "OpenAI API",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "SheetJS",
+    "slug": "sheetjs",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 65,
+    "data": {
+      "name": "SheetJS",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "SheetJS",
+    "slug": "sheetjs",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 65,
+    "data": {
+      "name": "SheetJS",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "jsPDF",
+    "slug": "jspdf",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 66,
+    "data": {
+      "name": "jsPDF",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "jsPDF",
+    "slug": "jspdf",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 66,
+    "data": {
+      "name": "jsPDF",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "AutoTable",
+    "slug": "autotable",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 67,
+    "data": {
+      "name": "AutoTable",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "AutoTable",
+    "slug": "autotable",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 67,
+    "data": {
+      "name": "AutoTable",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "PDF generation",
+    "slug": "pdf-generation",
+    "summary": "Used in 2 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 68,
+    "data": {
+      "name": "PDF generation",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "PDF generation",
+    "slug": "pdf-generation",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 68,
+    "data": {
+      "name": "PDF generation",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Email automation",
+    "slug": "email-automation",
+    "summary": "Used in 1 documented projects.",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 69,
+    "data": {
+      "name": "Email automation",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Email automation",
+    "slug": "email-automation",
+    "summary": "Supplied portfolio",
+    "category": "Integrations",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 69,
+    "data": {
+      "name": "Email automation",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "System Design",
+    "slug": "system-design",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 70,
+    "data": {
+      "name": "System Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "System Design",
+    "slug": "system-design",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 70,
+    "data": {
+      "name": "System Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "API Design",
+    "slug": "api-design",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 71,
+    "data": {
+      "name": "API Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "API Design",
+    "slug": "api-design",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 71,
+    "data": {
+      "name": "API Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Database Design",
+    "slug": "database-design",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 72,
+    "data": {
+      "name": "Database Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Database Design",
+    "slug": "database-design",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 72,
+    "data": {
+      "name": "Database Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Automation",
+    "slug": "automation",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 73,
+    "data": {
+      "name": "Automation",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Automation",
+    "slug": "automation",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 73,
+    "data": {
+      "name": "Automation",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Security",
+    "slug": "security",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Engineering",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 74,
+    "data": {
+      "name": "Security",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Security",
+    "slug": "security",
+    "summary": "Learning / platform stack",
+    "category": "Engineering",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 74,
+    "data": {
+      "name": "Security",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Performance Optimization",
+    "slug": "performance-optimization",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Engineering",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 75,
+    "data": {
+      "name": "Performance Optimization",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Performance Optimization",
+    "slug": "performance-optimization",
+    "summary": "Learning / platform stack",
+    "category": "Engineering",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 75,
+    "data": {
+      "name": "Performance Optimization",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Deployment",
+    "slug": "deployment",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Engineering",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 76,
+    "data": {
+      "name": "Deployment",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Deployment",
+    "slug": "deployment",
+    "summary": "Learning / platform stack",
+    "category": "Engineering",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 76,
+    "data": {
+      "name": "Deployment",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Monitoring",
+    "slug": "monitoring",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Engineering",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 77,
+    "data": {
+      "name": "Monitoring",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Monitoring",
+    "slug": "monitoring",
+    "summary": "Learning / platform stack",
+    "category": "Engineering",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 77,
+    "data": {
+      "name": "Monitoring",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "OpenCV",
+    "slug": "opencv",
+    "summary": "Used in 1 documented projects.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 78,
+    "data": {
+      "name": "OpenCV",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "OpenCV",
+    "slug": "opencv",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 78,
+    "data": {
+      "name": "OpenCV",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "DSP",
+    "slug": "dsp",
+    "summary": "Used in 1 documented projects.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 79,
+    "data": {
+      "name": "DSP",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "DSP",
+    "slug": "dsp",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 79,
+    "data": {
+      "name": "DSP",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "FFT",
+    "slug": "fft",
+    "summary": "Used in 1 documented projects.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 80,
+    "data": {
+      "name": "FFT",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "FFT",
+    "slug": "fft",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 80,
+    "data": {
+      "name": "FFT",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Audio Processing",
+    "slug": "audio-processing",
+    "summary": "Used in 1 documented projects.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 81,
+    "data": {
+      "name": "Audio Processing",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Audio Processing",
+    "slug": "audio-processing",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 81,
+    "data": {
+      "name": "Audio Processing",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Computer Vision",
+    "slug": "computer-vision",
+    "summary": "Used in 1 documented projects.",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 82,
+    "data": {
+      "name": "Computer Vision",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Computer Vision",
+    "slug": "computer-vision",
+    "summary": "Supplied portfolio",
+    "category": "Engineering",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 82,
+    "data": {
+      "name": "Computer Vision",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ],
+      "evidence": "Supplied portfolio"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Spring Boot",
+    "slug": "spring-boot",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 83,
+    "data": {
+      "name": "Spring Boot",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Spring Boot",
+    "slug": "spring-boot",
+    "summary": "Learning / platform stack",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 83,
+    "data": {
+      "name": "Spring Boot",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Spring MVC",
+    "slug": "spring-mvc",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 84,
+    "data": {
+      "name": "Spring MVC",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Spring MVC",
+    "slug": "spring-mvc",
+    "summary": "Learning / platform stack",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 84,
+    "data": {
+      "name": "Spring MVC",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Spring Security",
+    "slug": "spring-security",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 85,
+    "data": {
+      "name": "Spring Security",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Spring Security",
+    "slug": "spring-security",
+    "summary": "Learning / platform stack",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 85,
+    "data": {
+      "name": "Spring Security",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Hibernate",
+    "slug": "hibernate",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 86,
+    "data": {
+      "name": "Hibernate",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Hibernate",
+    "slug": "hibernate",
+    "summary": "Learning / platform stack",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 86,
+    "data": {
+      "name": "Hibernate",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "JPA",
+    "slug": "jpa",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 87,
+    "data": {
+      "name": "JPA",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "JPA",
+    "slug": "jpa",
+    "summary": "Learning / platform stack",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 87,
+    "data": {
+      "name": "JPA",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "ORM",
+    "slug": "orm",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 88,
+    "data": {
+      "name": "ORM",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "ORM",
+    "slug": "orm",
+    "summary": "Learning / platform stack",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 88,
+    "data": {
+      "name": "ORM",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "MVC",
+    "slug": "mvc",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 89,
+    "data": {
+      "name": "MVC",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "MVC",
+    "slug": "mvc",
+    "summary": "Learning / platform stack",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 89,
+    "data": {
+      "name": "MVC",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "JSP",
+    "slug": "jsp",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 90,
+    "data": {
+      "name": "JSP",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "JSP",
+    "slug": "jsp",
+    "summary": "Learning / platform stack",
+    "category": "Enterprise",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 90,
+    "data": {
+      "name": "JSP",
+      "category": "Enterprise",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "AngularJS",
+    "slug": "angularjs",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Frontend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 91,
+    "data": {
+      "name": "AngularJS",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "AngularJS",
+    "slug": "angularjs",
+    "summary": "Learning / platform stack",
+    "category": "Frontend",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 91,
+    "data": {
+      "name": "AngularJS",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Pandas",
+    "slug": "pandas",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 92,
+    "data": {
+      "name": "Pandas",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Pandas",
+    "slug": "pandas",
+    "summary": "Learning / platform stack",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 92,
+    "data": {
+      "name": "Pandas",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Matplotlib",
+    "slug": "matplotlib",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 93,
+    "data": {
+      "name": "Matplotlib",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Matplotlib",
+    "slug": "matplotlib",
+    "summary": "Learning / platform stack",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 93,
+    "data": {
+      "name": "Matplotlib",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Streamlit",
+    "slug": "streamlit",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 94,
+    "data": {
+      "name": "Streamlit",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Streamlit",
+    "slug": "streamlit",
+    "summary": "Learning / platform stack",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 94,
+    "data": {
+      "name": "Streamlit",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Regression",
+    "slug": "regression",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 95,
+    "data": {
+      "name": "Regression",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Regression",
+    "slug": "regression",
+    "summary": "Learning / platform stack",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 95,
+    "data": {
+      "name": "Regression",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Data Analysis",
+    "slug": "data-analysis",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 96,
+    "data": {
+      "name": "Data Analysis",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Data Analysis",
+    "slug": "data-analysis",
+    "summary": "Learning / platform stack",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 96,
+    "data": {
+      "name": "Data Analysis",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Data Visualization",
+    "slug": "data-visualization",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 97,
+    "data": {
+      "name": "Data Visualization",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Data Visualization",
+    "slug": "data-visualization",
+    "summary": "Learning / platform stack",
+    "category": "Data",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 97,
+    "data": {
+      "name": "Data Visualization",
+      "category": "Data",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Odoo",
+    "slug": "odoo",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "ERP",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 98,
+    "data": {
+      "name": "Odoo",
+      "category": "ERP",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Odoo",
+    "slug": "odoo",
+    "summary": "Learning / platform stack",
+    "category": "ERP",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 98,
+    "data": {
+      "name": "Odoo",
+      "category": "ERP",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "Odoo XML",
+    "slug": "odoo-xml",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "ERP",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 99,
+    "data": {
+      "name": "Odoo XML",
+      "category": "ERP",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "Odoo XML",
+    "slug": "odoo-xml",
+    "summary": "Learning / platform stack",
+    "category": "ERP",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 99,
+    "data": {
+      "name": "Odoo XML",
+      "category": "ERP",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "QWeb",
+    "slug": "qweb",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "ERP",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 100,
+    "data": {
+      "name": "QWeb",
+      "category": "ERP",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "QWeb",
+    "slug": "qweb",
+    "summary": "Learning / platform stack",
+    "category": "ERP",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 100,
+    "data": {
+      "name": "QWeb",
+      "category": "ERP",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "technologies",
+    "name": "AWS",
+    "slug": "aws",
+    "summary": "Part of the engineering learning and platform ecosystem.",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 101,
+    "data": {
+      "name": "AWS",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "skills",
+    "name": "AWS",
+    "slug": "aws",
+    "summary": "Learning / platform stack",
+    "category": "Cloud",
+    "status": "LEARNING",
+    "published": true,
+    "featured": false,
+    "sortOrder": 101,
+    "data": {
+      "name": "AWS",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "evidence": "Learning / platform stack"
+    }
+  },
+  {
+    "resource": "categories",
+    "name": "Java",
+    "slug": "java",
+    "summary": "Java journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "Spring Boot",
+    "slug": "spring-boot",
+    "summary": "Spring Boot journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "React",
+    "slug": "react",
+    "summary": "React journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "Python",
+    "slug": "python",
+    "summary": "Python journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "ERP",
+    "slug": "erp",
+    "summary": "ERP journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "IoT",
+    "slug": "iot",
+    "summary": "IoT journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "Databases",
+    "slug": "databases",
+    "summary": "Databases journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "Cloud",
+    "slug": "cloud",
+    "summary": "Cloud journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "Automation",
+    "slug": "automation",
+    "summary": "Automation journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "SEO",
+    "slug": "seo",
+    "summary": "SEO journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "categories",
+    "name": "System Design",
+    "slug": "system-design",
+    "summary": "System Design journal topics.",
+    "category": "Journal",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {}
+  },
+  {
+    "resource": "resume",
+    "name": "Darshan Tejomaya M \u2014 Profile",
+    "slug": "darshan-tejomaya-m-profile",
+    "summary": "Interactive resume assembled from your supplied portfolio.",
+    "category": "Resume",
+    "status": "PROTOTYPE",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "version": "2026.10",
+      "description": "Imported profile; confirm role dates before sharing.",
+      "mediaId": null
+    }
+  },
+  {
+    "resource": "settings",
+    "name": "Platform settings",
+    "slug": "platform-settings",
+    "summary": "Public platform configuration.",
+    "category": "Settings",
+    "status": "IMPLEMENTED",
+    "published": true,
+    "featured": false,
+    "sortOrder": 0,
+    "data": {
+      "siteName": "DTM Engineering Platform",
+      "siteUrl": "https://mvdt.in",
+      "contactEmail": "me@mvdt.in",
+      "analyticsEnabled": true
+    }
+  }
+]

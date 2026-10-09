@@ -1,0 +1,1516 @@
+{
+  "profile": {
+    "name": "Darshan Tejomaya M",
+    "role": "Founder & Systems Architect",
+    "location": "Malur, Karnataka, India",
+    "email": "me@mvdt.in",
+    "phone": "+917676272709",
+    "summary": "Technology entrepreneur and systems architect building full-stack applications, IoT systems, automation platforms and real-time operational software. Connecting physical hardware with cloud infrastructure, from microcontrollers to logistics engines."
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/mdarshan224",
+    "instagram": "https://www.instagram.com/mdarshantejomaya/",
+    "github": null
+  },
+  "companies": [
+    {
+      "id": "sohan-soft-tech",
+      "name": "Sohan Soft Tech",
+      "website": "https://sohansoft.in",
+      "cin": "U62011KA2026PTC224635"
+    },
+    {
+      "id": "junk-it-out",
+      "name": "Junk It Out Technologies",
+      "website": "https://junkitout.space",
+      "cin": "U38110KA2026PTC218578",
+      "recognition": "Startup India DIPP265455",
+      "recognitionUrl": "https://www.startupindia.gov.in/content/sih/en/block-chain-recognised-certificate.html?DIPP=DIPP265455"
+    }
+  ],
+  "experience": [
+    {
+      "year": 2026,
+      "date": "2026 – Present",
+      "role": "Co-Founder & Systems Architect",
+      "company": "Junk It Out Technologies Pvt Ltd",
+      "description": "Architected a centralized waste logistics platform. Designed Node.js and WebSocket services for tracking and dispatch, with PostGIS spatial querying and route optimization.",
+      "technologies": [
+        "Node.js",
+        "WebSockets",
+        "PostGIS",
+        "System Design"
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024 – Present",
+      "role": "Founder & Lead Architect",
+      "company": "Sohan Soft Tech Pvt Ltd",
+      "description": "Full-stack application development, API architecture and cloud deployments for businesses and educational institutions. Payment integrations, webhooks and automated workflows.",
+      "technologies": [
+        "REST APIs",
+        "Cloudflare",
+        "Razorpay",
+        "Automation"
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2025 – Present",
+      "role": "Lead Architect",
+      "company": "Project Silentium · Experimental R&D",
+      "description": "Experimental digital rights protection using Python and C++. Audio buffer sampling and DSP/FFT analysis for FSK-based ultrasonic identifiers.",
+      "technologies": [
+        "Python",
+        "C++",
+        "DSP",
+        "FFT"
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "Aug 2024 – Feb 2025",
+      "role": "Full-Stack Intern & BD Trainee",
+      "company": "Edu Tantr",
+      "description": "Contributed to frontend architecture and full-stack optimization. Supported business development, mentorship and CRM workflows.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Technology (BTech)",
+      "institution": "Dayananda Sagar University",
+      "date": "2021 – 2025",
+      "description": "Data Structures, Algorithms and System Architecture."
+    },
+    {
+      "title": "Class XII",
+      "institution": "Green City PU College",
+      "date": "2019 – 2021",
+      "description": ""
+    }
+  ],
+  "certifications": [],
+  "services": [
+    "Web development",
+    "Custom applications",
+    "Education systems",
+    "Business automation",
+    "Mobile applications",
+    "API integrations",
+    "IoT systems",
+    "Cloud deployment",
+    "Payment integrations"
+  ],
+  "articles": [],
+  "projects": [
+    {
+      "id": "sohan-soft-tech",
+      "name": "Sohan Soft Tech",
+      "monogram": "S.",
+      "category": "Business",
+      "stage": "Stage not listed",
+      "year": 2024,
+      "description": "Software, education and business systems, connected through practical integrations.",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "Cloudflare",
+        "REST APIs",
+        "WordPress",
+        "Shopify",
+        "Wix",
+        "Razorpay",
+        "WhatsApp APIs"
+      ],
+      "problem": "Businesses need software that connects their websites, internal operations and customer communication.",
+      "solution": "Custom websites, web applications, education solutions, payment integrations and business automation.",
+      "lab": "platform",
+      "accent": "orange",
+      "links": {
+        "website": "https://sohansoft.in"
+      },
+      "role": "Founder & Lead Architect",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "junk-it-out",
+      "name": "Junk It Out",
+      "monogram": "Jio",
+      "category": "Logistics",
+      "stage": "Development",
+      "year": 2026,
+      "description": "A connected platform for waste collection, dispatch and field operations.",
+      "technologies": [
+        "Android",
+        "Node.js",
+        "REST APIs",
+        "WebSockets",
+        "PostgreSQL",
+        "PostGIS",
+        "Cloudflare"
+      ],
+      "problem": "Fragmented waste collection makes booking, assignment and fleet coordination difficult.",
+      "solution": "Android client, API services and an operations layer for booking, dispatch, tracking and collection. PostGIS supports spatial querying.",
+      "lab": "logistics",
+      "accent": "orange",
+      "links": {
+        "website": "https://junkitout.space"
+      },
+      "role": "Co-Founder & Systems Architect",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "education-systems",
+      "name": "Education Systems",
+      "monogram": "Ed",
+      "category": "Education",
+      "stage": "Stage not listed",
+      "year": 2025,
+      "description": "Student operations, fees, attendance and parent communication in one ecosystem.",
+      "technologies": [
+        "Google Sheets",
+        "Apps Script",
+        "RFID",
+        "Fast2SMS",
+        "WhatsApp APIs",
+        "PDF generation",
+        "REST APIs"
+      ],
+      "problem": "Student records, attendance and fee workflows create repetitive administrative work.",
+      "solution": "Student databases, attendance workflows, fee management, payment links, parent communication and reporting.",
+      "lab": "education",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "nirantara",
+      "name": "Nirantara",
+      "monogram": "Ni",
+      "category": "Automation",
+      "stage": "Stage not listed",
+      "year": null,
+      "description": "An attendance reporting tool that transforms Excel sheets into structured PDFs.",
+      "technologies": [
+        "JavaScript",
+        "SheetJS",
+        "jsPDF",
+        "AutoTable",
+        "HTML",
+        "CSS"
+      ],
+      "problem": "Attendance spreadsheets need a consistent and portable reporting format.",
+      "solution": "Client-side Excel processing with SheetJS, PDF creation with jsPDF and tabular reporting through AutoTable.",
+      "lab": "reporting",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "employee-onboarding",
+      "name": "Employee Onboarding",
+      "monogram": "On",
+      "category": "Automation",
+      "stage": "Stage not listed",
+      "year": null,
+      "description": "Forms, documents and scheduling connected into an onboarding workflow.",
+      "technologies": [
+        "Google Forms",
+        "Google Sheets",
+        "Apps Script",
+        "PDF generation",
+        "Email automation",
+        "WhatsApp APIs"
+      ],
+      "problem": "Onboarding involves repeated data entry, document creation and interview coordination.",
+      "solution": "Forms collect details; Sheets and Apps Script coordinate PDFs, email, WhatsApp, short links and interview scheduling.",
+      "lab": "automation",
+      "accent": "orange",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "messaging-platform",
+      "name": "DLT & Messaging",
+      "monogram": "DL",
+      "category": "Integrations",
+      "stage": "Stage not listed",
+      "year": null,
+      "description": "Template-based messaging and API integrations for business communication.",
+      "technologies": [
+        "REST APIs",
+        "Fast2SMS",
+        "DLT",
+        "Airtel DLT",
+        "Jio DLT",
+        "WhatsApp APIs"
+      ],
+      "problem": "Business messages need approved templates and reliable provider integrations.",
+      "solution": "DLT template management and SMS integration across Fast2SMS, Airtel DLT and Jio DLT.",
+      "lab": "messaging",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "rfid-attendance",
+      "name": "RFID Attendance",
+      "monogram": "RF",
+      "category": "Hardware",
+      "stage": "Prototype",
+      "year": null,
+      "description": "A hardware-to-cloud attendance pipeline with parent notifications.",
+      "technologies": [
+        "ESP32",
+        "ESP8266",
+        "MFRC522",
+        "RFID",
+        "Apps Script",
+        "Google Sheets",
+        "Fast2SMS",
+        "NTP"
+      ],
+      "problem": "Manual attendance registers are slow and difficult to connect to timely parent communication.",
+      "solution": "Prototyped RFID hardware and embedded logic connected to cloud records and SMS notifications. Offline synchronization is a proposed reliability layer.",
+      "lab": "hardware",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "silentium",
+      "name": "Project Silentium",
+      "monogram": "Si",
+      "category": "R&D",
+      "stage": "Prototype",
+      "year": 2025,
+      "description": "Experimental audio identifiers and digital rights protection research.",
+      "technologies": [
+        "Python",
+        "C++",
+        "DSP",
+        "FFT",
+        "Audio Processing"
+      ],
+      "problem": "Investigate signal-based identification as part of experimental digital rights protection.",
+      "solution": "Continuous audio sampling and DSP/FFT analysis for embedding and detecting FSK-based ultrasonic identifiers. The browser demonstration is a simulation, not OS-level enforcement.",
+      "lab": "silentium",
+      "accent": "teal",
+      "links": {},
+      "role": "Lead Architect · Experimental R&D",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "chaiya",
+      "name": "Chaiya",
+      "monogram": "Ch",
+      "category": "Automation",
+      "stage": "Stage not listed",
+      "year": null,
+      "description": "A WhatsApp college assistant for admissions and service enquiries.",
+      "technologies": [
+        "n8n",
+        "WhatsApp APIs",
+        "REST APIs",
+        "OpenAI API"
+      ],
+      "problem": "Repeated admission and student service enquiries consume staff time.",
+      "solution": "WhatsApp-based assistance using n8n and API integrations for admissions, ERP navigation and parent communication.",
+      "lab": "automation",
+      "accent": "orange",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    },
+    {
+      "id": "hazard-detection",
+      "name": "AI Hazard Detection",
+      "monogram": "AI",
+      "category": "R&D",
+      "stage": "Prototype",
+      "year": null,
+      "description": "An experimental vision and sensor pipeline for environmental hazard alerts.",
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "sensors",
+        "Computer Vision"
+      ],
+      "problem": "Explore detecting physical hazards in high-risk environments during mobile device use.",
+      "solution": "Experimental computer vision and sensor analysis to detect environmental hazards and trigger alerts.",
+      "lab": "hardware",
+      "accent": "teal",
+      "links": {},
+      "role": "Not publicly listed",
+      "screensAvailable": false,
+      "releaseEvidence": "Release stage is not publicly listed unless explicitly documented in the supplied portfolio.",
+      "roadmap": [
+        "Validate integrations and reliability",
+        "Expand observability and documentation",
+        "Iterate on operator and customer workflows"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "category": "Languages",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Python",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "silentium",
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Java",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "C",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "C++",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "SQL",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "HTML",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "CSS",
+      "category": "Languages",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "React",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Shopify",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Wix",
+      "category": "Frontend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Express",
+      "category": "Backend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out",
+        "education-systems",
+        "messaging-platform",
+        "chaiya"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Webhooks",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Authentication",
+      "category": "Backend",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "WebSockets",
+      "category": "Backend",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "PostGIS",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Redis",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "category": "Databases",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Supabase",
+      "category": "Databases",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Google Sheets",
+      "category": "Databases",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Cloudflare Workers",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Wrangler",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Docker",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Git",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "category": "Cloud",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Linux",
+      "category": "Cloud",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Android",
+      "category": "Mobile",
+      "confirmed": true,
+      "projects": [
+        "junk-it-out"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Android Studio",
+      "category": "Mobile",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "category": "Mobile",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "ESP8266",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "ESP32",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "RFID",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "MFRC522",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "LCD",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "sensors",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "embedded systems",
+      "category": "Hardware",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "NTP",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "Arduino",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "Raspberry Pi",
+      "category": "Hardware",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Attendance",
+        "Hardware-to-cloud interfaces",
+        "Sensor workflows"
+      ]
+    },
+    {
+      "name": "Razorpay",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Cashfree",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Zoho Pay",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Fast2SMS",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "messaging-platform",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "WhatsApp APIs",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "sohan-soft-tech",
+        "education-systems",
+        "employee-onboarding",
+        "messaging-platform",
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Airtel DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Jio DLT",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "messaging-platform"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Google Workspace",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Apps Script",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding",
+        "rfid-attendance"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Google Forms",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "n8n",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "OpenAI API",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "chaiya"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "SheetJS",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "jsPDF",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "AutoTable",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "nirantara"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "PDF generation",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "education-systems",
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "Email automation",
+      "category": "Integrations",
+      "confirmed": true,
+      "projects": [
+        "employee-onboarding"
+      ],
+      "applications": [
+        "Business communication",
+        "Automated workflows",
+        "Data processing"
+      ]
+    },
+    {
+      "name": "System Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "API Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Database Design",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Automation",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Security",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Performance Optimization",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Deployment",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "category": "Engineering",
+      "confirmed": false,
+      "projects": [],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "OpenCV",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "DSP",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "FFT",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Audio Processing",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "silentium"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "category": "Engineering",
+      "confirmed": true,
+      "projects": [
+        "hazard-detection"
+      ],
+      "applications": [
+        "Web platforms",
+        "APIs & systems",
+        "Engineering workflows"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2022,
+      "title": "The foundations",
+      "category": "Software",
+      "description": "Foundational coding, syntax, logic gates and early algorithms, as documented in the original Time Machine.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "C",
+        "C++"
+      ],
+      "projects": []
+    },
+    {
+      "year": 2023,
+      "title": "From local to connected",
+      "category": "Software",
+      "description": "Node.js integrations and full-stack development begin; exploring cloud-hosted systems.",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "REST APIs"
+      ],
+      "projects": []
+    },
+    {
+      "year": 2024,
+      "title": "Building the software foundry",
+      "category": "Business",
+      "description": "Sohan Soft Tech work begins. Full-stack experience expands through the Edu Tantr internship.",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "REST APIs",
+        "Cloudflare"
+      ],
+      "projects": [
+        "sohan-soft-tech"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Software meets the physical world",
+      "category": "IoT",
+      "description": "Education workflows, RFID hardware and ESP32 prototyping. Experimental signal-processing research through Silentium.",
+      "technologies": [
+        "ESP32",
+        "RFID",
+        "Apps Script",
+        "Python",
+        "C++",
+        "PostGIS",
+        "WebSockets"
+      ],
+      "projects": [
+        "education-systems",
+        "silentium"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "An ecosystem takes shape",
+      "category": "Infrastructure",
+      "description": "Company incorporation and Junk It Out systems architecture, with logistics, cloud infrastructure and operational workflows.",
+      "technologies": [
+        "Android",
+        "Node.js",
+        "PostGIS",
+        "Cloudflare",
+        "WebSockets"
+      ],
+      "projects": [
+        "junk-it-out",
+        "sohan-soft-tech"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:dtm;MODE=PostgreSQL;DB_CLOSE_DELAY=-1
+    username: sa
+    password: ''
+  flyway:
+    locations: classpath:db/migration/postgresql
+  jpa:
+    hibernate:
+      ddl-auto: validate
+app:
+  seed: false
+  bootstrap-email: ''
+  bootstrap-password: ''
+  upload-dir: ./target/test-uploads
+
+  otp:
+    allowed-phones: 6999999999

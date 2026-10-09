@@ -1,0 +1,2 @@
+package com.dtm.platform.dto;import jakarta.validation.constraints.*;import java.util.Map;
+public record ContentInput(@NotBlank @Size(max=180) String name,@NotBlank @Pattern(regexp="[a-z0-9]+(?:-[a-z0-9]+)*") @Size(max=180) String slug,@Size(max=3000) String summary,@Size(max=100) String category,@NotBlank @Pattern(regexp="CONCEPT|PROTOTYPE|DEVELOPMENT|PRODUCTION|ARCHIVED|IMPLEMENTED|PLANNED|LEARNING|PERSONAL_PROJECT") String status,boolean published,boolean featured,@Min(0) int sortOrder,Map<String,Object> data,Long version) {}

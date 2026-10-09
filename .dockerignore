@@ -1,0 +1,14 @@
+.git
+.openai
+.sites-runtime
+.wrangler
+node_modules
+frontend/node_modules
+frontend/dist
+dist
+backend/target
+uploads
+.env
+**/__pycache__
+**/*.log
+**/*.zip

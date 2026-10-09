@@ -1,0 +1,58 @@
+spring:
+  application:
+    name: dtm-platform
+  profiles:
+    default: development
+  datasource:
+    url: ${DB_URL:jdbc:mysql://localhost:3306/dtm}
+    username: ${DB_USERNAME:dtm}
+    password: ${DB_PASSWORD}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        jdbc:
+          time_zone: UTC
+  flyway:
+    locations: classpath:db/migration/common
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 11MB
+server:
+  port: ${PORT:8080}
+  error:
+    include-message: never
+  forward-headers-strategy: none
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+  endpoint:
+    health:
+      show-details: never
+springdoc:
+  swagger-ui:
+    enabled: ${API_DOCS_ENABLED:true}
+  api-docs:
+    enabled: ${API_DOCS_ENABLED:true}
+app:
+  jwt-secret: ${JWT_SECRET}
+  jwt-issuer: dtm-platform
+  cors-origins: ${CORS_ORIGINS:http://localhost:5173}
+  seed: ${SEED_CONTENT:true}
+  bootstrap-email: ${ADMIN_EMAIL:}
+  bootstrap-password: ${ADMIN_PASSWORD:}
+  upload-dir: ${UPLOAD_DIR:./uploads}
+  analytics-days: ${ANALYTICS_RETENTION_DAYS:90}
+  otp:
+    api-key: ${FAST2SMS_API_KEY:}
+    template-id: ${FAST2SMS_OTP_ID:}
+    allowed-phones: ${ADMIN_ALLOWED_PHONES:}
+logging:
+  level:
+    root: INFO
+    org.springframework.security: WARN

@@ -1,0 +1,7 @@
+import {strict as assert} from 'node:assert';import {test} from 'node:test';import {bubbleSteps,schedule,binarySearchSteps,linearRegression} from '../frontend/src/services/algorithms.ts';
+test('bubble sort sorts duplicates and negative values',()=>{assert.deepEqual(bubbleSteps([5,-2,5,1]).at(-1)?.values,[-2,1,5,5]);assert.equal(bubbleSteps([1,2,3]).at(-1)?.comparisons,2);});
+test('search finds first midpoint and terminates for missing values',()=>{assert.equal(binarySearchSteps([3,8,12,17,24],17).at(-1)?.mid,3);assert.equal(binarySearchSteps([3,8,12],100).at(-1)?.found,false);});
+test('FCFS includes arrivals in wait accounting',()=>{const result=schedule([{id:'A',arrival:2,burst:3},{id:'B',arrival:4,burst:2}],'FCFS');assert.deepEqual(result.slices,[{id:'A',start:2,end:5},{id:'B',start:5,end:7}]);assert.equal(result.waiting,.5);});
+test('non-preemptive SJF chooses among arrived jobs',()=>{const r=schedule([{id:'A',arrival:0,burst:5},{id:'B',arrival:1,burst:3},{id:'C',arrival:2,burst:1}],'SJF');assert.deepEqual(r.slices.map(x=>x.id),['A','C','B']);});
+test('round robin enqueues arrivals before the preempted process',()=>{const r=schedule([{id:'A',arrival:0,burst:4},{id:'B',arrival:1,burst:1}],'RR',2);assert.deepEqual(r.slices.map(x=>x.id),['A','B','A']);assert.equal(r.waiting,1);});
+test('regression reproduces a known line',()=>{const r=linearRegression([{x:1,y:3},{x:2,y:5},{x:3,y:7}]);assert.equal(r.slope,2);assert.equal(r.intercept,1);assert.throws(()=>linearRegression([{x:1,y:3},{x:1,y:4}]));});

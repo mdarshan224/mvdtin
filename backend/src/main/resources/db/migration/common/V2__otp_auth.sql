@@ -1,0 +1,13 @@
+CREATE TABLE otp_challenges (
+  phone_hash VARCHAR(64) PRIMARY KEY,
+  challenge_id VARCHAR(36) NOT NULL UNIQUE,
+  created_at TIMESTAMP(6) NOT NULL,
+  expires_at TIMESTAMP(6) NOT NULL,
+  last_sent_at TIMESTAMP(6) NOT NULL,
+  attempts INTEGER NOT NULL DEFAULT 0,
+  resends INTEGER NOT NULL DEFAULT 0,
+  consumed BOOLEAN NOT NULL DEFAULT FALSE,
+  delivery_window BIGINT NOT NULL DEFAULT 0,
+  deliveries INTEGER NOT NULL DEFAULT 0,
+  version BIGINT NOT NULL DEFAULT 0
+);

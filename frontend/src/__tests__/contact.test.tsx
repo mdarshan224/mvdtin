@@ -1,0 +1,8 @@
+import {describe,it,vi,expect,beforeEach} from 'vitest';import {render,screen,fireEvent,waitFor,cleanup} from '@testing-library/react';import ContactForm from '../pages/contact';
+vi.mock('../api/client',()=>({request:vi.fn(),track:vi.fn()}));import {request} from '../api/client';
+beforeEach(()=>{cleanup();vi.resetAllMocks();});
+const fill=()=>{fireEvent.change(screen.getByLabelText('Your name *'),{target:{value:'Example User'}});fireEvent.change(screen.getByLabelText('Email *'),{target:{value:'example@example.test'}});fireEvent.change(screen.getByLabelText('Tell me about the project *'),{target:{value:'Please help with an operations platform.'}});};
+describe('contact workflow',()=>{
+ it('preserves the brief when the API fails',async()=>{vi.mocked(request).mockRejectedValue(new Error('Temporary service failure'));render(<ContactForm/>);fill();fireEvent.click(screen.getByRole('button',{name:'Send project brief'}));expect(await screen.findByRole('alert')).toHaveTextContent('Temporary service failure');expect(screen.getByLabelText('Your name *')).toHaveValue('Example User');expect(screen.getByLabelText('Tell me about the project *')).toHaveValue('Please help with an operations platform.');});
+ it('shows a receipt only after the API succeeds',async()=>{vi.mocked(request).mockResolvedValue({status:'received',id:1});render(<ContactForm/>);fill();fireEvent.click(screen.getByRole('button',{name:'Send project brief'}));expect(await screen.findByRole('status')).toHaveTextContent('Your message is saved.');expect(vi.mocked(request).mock.calls[0][0]).toBe('/contact');expect(JSON.parse(vi.mocked(request).mock.calls[0][1]!.body as string).submissionKey).toBeTruthy();});
+});

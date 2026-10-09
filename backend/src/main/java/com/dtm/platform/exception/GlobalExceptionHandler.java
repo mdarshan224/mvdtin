@@ -1,0 +1,8 @@
+package com.dtm.platform.exception;import org.springframework.web.bind.annotation.*;import org.springframework.http.*;import org.springframework.web.bind.MethodArgumentNotValidException;import org.springframework.dao.DataIntegrityViolationException;import org.springframework.orm.ObjectOptimisticLockingFailureException;import java.util.*;
+@RestControllerAdvice public class GlobalExceptionHandler {
+ @ExceptionHandler(ApiException.class) ResponseEntity<?> api(ApiException e){return ResponseEntity.status(e.status).body(Map.of("message",e.getMessage(),"code",e.status.name()));}
+ @ExceptionHandler(MethodArgumentNotValidException.class) ResponseEntity<?> validation(MethodArgumentNotValidException e){Map<String,String> fields=new LinkedHashMap<>();e.getBindingResult().getFieldErrors().forEach(x->fields.put(x.getField(),x.getDefaultMessage()));return ResponseEntity.badRequest().body(Map.of("message","Please check the submitted fields.","fields",fields));}
+ @ExceptionHandler({IllegalArgumentException.class,org.springframework.http.converter.HttpMessageNotReadableException.class}) ResponseEntity<?> bad(Exception e){return ResponseEntity.badRequest().body(Map.of("message","Invalid request."));}
+ @ExceptionHandler({DataIntegrityViolationException.class,ObjectOptimisticLockingFailureException.class}) ResponseEntity<?> conflict(Exception e){return ResponseEntity.status(409).body(Map.of("message","This record changed or its slug is already in use. Reload before saving."));}
+ @ExceptionHandler(Exception.class) ResponseEntity<?> unexpected(Exception e){org.slf4j.LoggerFactory.getLogger(getClass()).error("Request failed: {}",e.getClass().getSimpleName());return ResponseEntity.status(500).body(Map.of("message","The service could not complete this request."));}
+}
