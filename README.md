@@ -134,6 +134,8 @@ The review does **not** run Spring Boot or MySQL. It has the same content API sh
 
 When a public HTTPS Spring API exists, the hosted adapter can proxy `/api/v1` with a server-side `BACKEND_URL`. Its initial public content loading can also use that backend. The standalone Docker frontend does not require this adapter or Cloudflare bindings.
 
+The Cloudflare/Vinext build reads its binding configuration from the repository-root `hosting.json`. Configure the Cloudflare Worker with a D1 binding named `DB` and an R2 bucket binding named `BUCKET` to match. Keeping the source config at the repository root also ensures Git-based Cloudflare builds include it; the build copies it into `dist/.openai/hosting.json` for the generated hosting output.
+
 ## Python and Odoo
 
 ```bash
